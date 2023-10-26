@@ -7,4 +7,8 @@ public class NewTest {
   public void f() {
 	  System.out.println("welcome");
   }
+  
+  public void Display() {
+	  System.out.println("Hi Hello");
+  }
 }
